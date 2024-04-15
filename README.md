@@ -1,7 +1,7 @@
 
 # Aplicación de atención a PQRS:
 
-Descripción de la aplicación :::::::::.\
+Descripción de la aplicación: *** Molde de trabajo para aplicaciones APIRESTfull NodeJS ***.\
 ``Desarrollador: Juan Sebastian Medina Toro``
 
 Esta aplicación viene con las preconfiguraciones necesarias para el modelo de trabajo requerido. La aplicación se encuentra desarrollada en NodeJS usando TypeScript y como base de datos estamos usando ::::::: con una imagen de Docker para el manejo de contenedores. Para el manejo de las sentencias SQL en el sistema, usaremos el ORM de :::::::: y su estructura de configuración de modelos para las tablas de la BD.
