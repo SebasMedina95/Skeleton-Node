@@ -1,5 +1,5 @@
 
-# Aplicación de atención a PQRS:
+# Aplicación basada en Node y TS:
 
 Descripción de la aplicación: *** Molde de trabajo para aplicaciones APIRESTfull NodeJS ***.\
 ``Desarrollador: Juan Sebastian Medina Toro``
