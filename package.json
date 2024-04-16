@@ -4,8 +4,8 @@
   "description": "Aplicación de atención de PQRS - APÍRESTful",
   "main": "index.js",
   "scripts": {
-    "dev": "tsnd --respawn src/app.ts",
-    "start": "npm run build && node dist/app.js",
+    "dev": "tsnd --respawn src/start/app.ts",
+    "start": "npm run build && node dist/start/app.js",
     "build": "rimraf ./dist && tsc"
   },
   "keywords": [
